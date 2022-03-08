@@ -1,8 +1,8 @@
 ## Nataly´s personal website
 **html elements**
-*I practice to write different html elements*
-**Lists**
-*Summer months*
+1. *I practice to write different html elements*
+- **Lists**
+- *Summer months*
 - June
 - July
 - August
