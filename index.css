@@ -14,7 +14,12 @@ h3 {
   color: green;
   text-align: center;
 }
+h4 {
+  color: purple;
+  text-align: center;
+}
 p {
   font-family: verdana;
   font-size: 20px;
+  text-align: center
 }
