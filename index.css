@@ -5,14 +5,20 @@ body {
 h1 {
   color: blue;
   text-align: center;
+  font-family: verdana;
+  font-size: 30px;
 }
 h2 {
   color: red;
   text-align: center;
+  font-family: verdana;
+  font-size: 25px
 }
 h3 {
   color: green;
   text-align: center;
+  font-family: verdana;
+  font-size: 20px
 }
 h4 {
   color: purple;
@@ -22,4 +28,10 @@ p {
   font-family: verdana;
   font-size: 20px;
   text-align: center
+}
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  max-width: 100%;
 }
