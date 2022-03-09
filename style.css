@@ -8,16 +8,16 @@ h1 {
 }
 h2 {
   color: red;
-  text-align: center;
+  text-align: left;
 }
 h3 {
   color: green;
-  text-align: center;
+  text-align: left;
 }
 p {
   font-family: verdana;
   font-size: 20px;
-  text-align: center
+  text-align: left
 }
 
 img {
@@ -25,4 +25,12 @@ img {
   border-radius: 4px;
   padding: 5px;
   max-width: 100 %;
+}
+a {
+  color: red;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+a:hover {
+  color: hotpink;
 }
