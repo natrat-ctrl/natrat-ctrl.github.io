@@ -16,10 +16,8 @@ ol > li{
 ul > li{
 list-style:squares;
 }
-.myDiv {
-border-style: dotted;
-border-width: 2px;
-height: 200px;
-width: 200px;
-}
 
+.myDiv {
+padding: 200 px;
+border: 2px dotted;
+}
