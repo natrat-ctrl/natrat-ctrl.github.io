@@ -10,14 +10,15 @@ font-size: 16px;
   text-color: dark blue;
   background-color: Lavender;
 }
-ol > li{
-    list-style: letter;
+ul {
+    list-style-type: square;
 }
-ul > li{
-list-style:squares;
+ol {
+    list-style-type: lower-alpha;
 }
 
 .myDiv {
-padding: 200 px;
+height: 200px;
+width: 200px;  
 border: 2px dotted;
 }
