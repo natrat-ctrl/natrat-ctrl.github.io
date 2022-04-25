@@ -16,3 +16,8 @@ ul {
 ol {
     list-style-type: lower-alpha;
 }
+.myDiv {
+height: 200px;
+width: 200px;  
+border: 2px dotted;
+}
